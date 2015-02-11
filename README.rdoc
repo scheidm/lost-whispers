@@ -1,28 +1,12 @@
 == README
+===Work in Progress
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Lost Whispers will be a light-weight RoR Wiki based around the idea that each
+user may have different levels of information on a given topic. The idea is that
+it would be used to share sensitive information or private messages amongst a
+small community, be that a small business, a family household, or even a simple
+role-playing group. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
+At the moment we've got a data structure without proper implementation. Come
+check back later for more!
 <tt>rake doc:app</tt>.
