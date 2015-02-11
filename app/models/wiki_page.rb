@@ -1,0 +1,2 @@
+class WikiPage < WikiPart
+end
